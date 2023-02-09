@@ -13,6 +13,9 @@
 ## 📈 GitHub Stats
 ![Darshan's github stats](https://github-readme-stats.vercel.app/api?username=itsdarshankumar&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
+## 📈 Github Streaks
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itsdarshankumar&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 ## ⚡ Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsdarshankumar)](https://github.com/itsdarshankumar/github-readme-stats)
 <!--
