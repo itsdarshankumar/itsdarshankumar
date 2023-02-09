@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/Lang-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 
 ## 📈 GitHub Stats
-[![Darshan's github stats](https://github-readme-stats.vercel.app/api?username=itsdarshankumar&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)]
+![Darshan's github stats](https://github-readme-stats.vercel.app/api?username=itsdarshankumar&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ## ⚡ Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsdarshankumar)](https://github.com/itsdarshankumar/github-readme-stats)
