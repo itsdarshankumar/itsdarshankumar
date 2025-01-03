@@ -1,4 +1,4 @@
-### Hi there 👋 I am Darshan Kumar, a Pre-Final year undergrad at the Computer Science Department, Indian Institute Of Technology Roorkee, and a Software Developer at SDSLabs(student-run technical group)
+### Hi there 👋 I am Darshan Kumar, a Final year undergrad at the Computer Science Department, Indian Institute Of Technology Roorkee, Infra at Abacus.AI and Developer at SDSLabs(student-run technical group)
 
 ## Interested In
 * Open Source
